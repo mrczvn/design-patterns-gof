@@ -1,0 +1,13 @@
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\obj\Debug\netcoreapp3.1\abstract-factory.csprojAssemblyReference.cache
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\obj\Debug\netcoreapp3.1\abstract-factory.AssemblyInfoInputs.cache
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\obj\Debug\netcoreapp3.1\abstract-factory.AssemblyInfo.cs
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\obj\Debug\netcoreapp3.1\abstract-factory.csproj.CoreCompileInputs.cache
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\bin\Debug\netcoreapp3.1\abstract-factory.exe
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\bin\Debug\netcoreapp3.1\abstract-factory.deps.json
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\bin\Debug\netcoreapp3.1\abstract-factory.runtimeconfig.json
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\bin\Debug\netcoreapp3.1\abstract-factory.runtimeconfig.dev.json
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\bin\Debug\netcoreapp3.1\abstract-factory.dll
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\bin\Debug\netcoreapp3.1\abstract-factory.pdb
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\obj\Debug\netcoreapp3.1\abstract-factory.dll
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\obj\Debug\netcoreapp3.1\abstract-factory.pdb
+C:\Users\marvn\projects\folks\design-patterns-gof\creational\abstract-factory\abstract-factory\obj\Debug\netcoreapp3.1\abstract-factory.genruntimeconfig.cache
