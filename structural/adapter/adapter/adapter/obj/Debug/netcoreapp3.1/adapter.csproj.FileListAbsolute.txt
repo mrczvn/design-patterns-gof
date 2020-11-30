@@ -1,0 +1,13 @@
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.exe
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.deps.json
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.runtimeconfig.json
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.runtimeconfig.dev.json
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.dll
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.pdb
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.csprojAssemblyReference.cache
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.AssemblyInfoInputs.cache
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.AssemblyInfo.cs
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.csproj.CoreCompileInputs.cache
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.dll
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.pdb
+C:\Users\marvn\projects\folks\design-patterns-gof\structural\adapter\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.genruntimeconfig.cache

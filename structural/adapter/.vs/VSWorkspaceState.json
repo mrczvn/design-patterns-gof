@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\adapter",
+    "\\adapter\\adapter",
+    "\\adapter\\adapter\\Domain",
+    "\\adapter\\adapter\\Domain\\Services"
+  ],
+  "SelectedNode": "\\adapter\\adapter\\Domain\\Services\\ExchangeRateAPIManager.cs",
+  "PreviewInSolutionExplorer": false
+}
